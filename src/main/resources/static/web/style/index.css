@@ -1,0 +1,91 @@
+
+body {
+    margin: 0;
+    padding: 0;
+   // background-color:black;
+   background-image:url(../img/login-hero.jpg);
+    font-Family:Roboto;
+}
+
+.m{
+    text-align:center;
+}
+
+.reg{
+        margin:22px;
+    text-align:center;
+}
+
+.fondo{
+      // Background-color:black;
+      background-position:center center;
+       background-image: url(../img/home.jpg);
+       background-repeat: no-repeat;
+      background-attachment:fixed;
+      background-size: cover;
+
+       width:100%;
+        height:100%;
+        Color:white;
+        display:grid;
+        justify-content:center;
+     /*  display: grid;
+        place-content: center;*/
+
+    }
+    .foto{
+      width:400px;
+    }
+ .textIni2{
+        color:#A2BCD7;
+        font-size:40px;
+        text-shadow:#3C4759 3px 0px;
+    }
+    .textIni{
+        color:#A2BCD7;
+        font-size:50px;
+        text-shadow:#3C4759 3px 0px;
+    }
+
+    .fondoLog{
+           //Background-color:black;
+  background-image: url(../img/login.jpg);
+  background-position: center center;
+           width:auto;
+            height:100%;
+            Color:white;
+            display:flex;
+            justify-content:space-around;
+            background-size: cover;
+          /* display: grid;
+            place-content: center;*/
+
+        }
+
+        .fondoCreateCard{
+                   Background-color:#0F415C;
+
+
+                   width:100%;
+                    height:100%;
+                    Color:white;
+                    display:grid;
+                    justify-content:space-around;
+                  /* display: grid;
+                    place-content: center;*/
+
+                }
+    /*
+.fondo:hover{
+       cursor:pointer;
+}*/
+
+. prueba{
+    color:'red';
+}
+#ix{
+  //  Background-color:#215D05;
+    border-radius:19px
+    justify-content:right;
+    }
+
